@@ -12,9 +12,9 @@
  **security** - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.<br></br>
 
 
-2.Identify and describe at least three key milestones in the evolution of software engineering.  
-.mastering complexity
-Mastering process
+2.Identify and describe at least three key milestones in the evolution of software engineering. <br></br> 
+.mastering complexity<br></br>
+Mastering process<br></br>
 Mastering machine
 
 
