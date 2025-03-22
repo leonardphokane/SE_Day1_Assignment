@@ -3,7 +3,7 @@
 <br></br>
 
 #Part 1: Introduction to Software Engineering
-<br></br>
+<br></br><br></br>
 1.Explain what software engineering is and discuss its importance in the technology industry<br></br>
 **software engineering** is a branch of computer science used for developing, testing and maintaining software.<br></br>
 **reliability**- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance.<br></br> 
@@ -24,18 +24,18 @@ List and briefly explain the phases of the Software Development Life Cycle.<br><
 **design** - building the framework.<br></br> 
 **coding** - converting software design into tangible code.<br></br>
  **testing** - examine the software for any bugs and glitches<br></br>
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-**waterfall methodology** - Linear and sequential, each phase is completed before moving on. 
-- there is Low flexibility,
- changes are hard to incorporate once a phase is complete.
- - Customer feedback comes late, after the product is developed.
- - Testing is done at the end of the development process.
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.<br></br>
+**waterfall methodology** - Linear and sequential, each phase is completed before moving on. <br></br>
+-there is Low flexibility,<br></br>
+ changes are hard to incorporate once a phase is complete.<br></br>
+ -Customer feedback comes late, after the product is developed.<br></br>
+ -Testing is done at the end of the development process.<br></br>
 
 
-agile methodology - Iterative and incremental, with multiple cycles (sprints). 
-- High flexibility, adapts to changing requirements. 
-- Regular customer feedback is incorporated into every sprint. 
-- Testing is continuous and done after each iteration.
+**agile methodology** - Iterative and incremental, with multiple cycles (sprints).<br></br> 
+- High flexibility, adapts to changing requirements. <br></br>
+- Regular customer feedback is incorporated into every sprint. <br></br>
+- Testing is continuous and done after each iteration.<br></br>
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
