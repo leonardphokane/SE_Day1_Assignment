@@ -55,7 +55,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
  -deliver the complete software to the client and regularly check its performance.<br></br>
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.<br></br>
 **An integrated development environment (IDE)** is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 importance:<br></br>
 - Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.<br></br>
@@ -70,7 +70,7 @@ Debugging IDE enables a step through the code, line by line, as it runs and insp
 importance:<br></br>
 **Collaboration**: Enables multiple developers to work on the same codebase without conflicts.<br></br>
 **Change Tracking**: Records detailed history of changes, allowing easy analysis of each modification. <br></br>
--**Branching and Merging**: Supports creating branches for new features and merging them back into the main code.
+-**Branching and Merging**: Supports creating branches for new features and merging them back into the main code.<br></br>
 **Error Recovery**: Allows reverting to previous versions if new changes introduce errors<br></br>
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.<br></br>
@@ -90,11 +90,11 @@ Solution: Use scalable architecture, Emphasize reliability.<br></br>
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 **Unit tests** - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.<br></br>
  **Integration tests** - verify that different modules or services used by your application work well together.<br></br>
- - help to ensure data flows smoothly between modules and interfaces work as expected.<br></br>
+ -help to ensure data flows smoothly between modules and interfaces work as expected.<br></br>
  **System testing** -Focus on the entire software system as a whole, including all functionalities and interactions.<br></br>
  -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .<br></br>
 **Acceptance tests** - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. <br></br>
-- Whether the software meets the needs of the end-user and is ready for deployment.<br></br>
+ -Whether the software meets the needs of the end-user and is ready for deployment.<br></br>
 #Part 2: Introduction to AI and Prompt Engineering<br></br>
 
 Define prompt engineering and discuss its importance in interacting with AI models.<br></br>
