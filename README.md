@@ -87,7 +87,7 @@ Solution: research ways to defend against hacking, malware, phishing, insider an
 **Software Accessibility and Usability** - Overly complex software can frustrate or confuse users. <br></br>
 Solution: Use scalable architecture, Emphasize reliability.<br></br>
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.<br></br>
 **Unit tests** - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.<br></br>
  **Integration tests** - verify that different modules or services used by your application work well together.<br></br>
  -help to ensure data flows smoothly between modules and interfaces work as expected.<br></br>
